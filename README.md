@@ -31,7 +31,8 @@ However, this is a problem I'll save for my future self, and I'm not going to de
 ## Tasks
 For now I need to:
 - Check Shazam API
-  - [ ] see if it is possible to pass a link to shazam 
+  - [ ] see if it is possible to pass a link to Shazam
+  - [ ] see how does Shazam get its result
   - [ ] see if it is possible to get the Apple Music Link within the Shazam result
 - Check Youtube API
   - [ ] see if I can skim through a Youtube Playlist to get its video 
